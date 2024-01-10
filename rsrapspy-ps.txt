@@ -1,4 +1,8 @@
 
+https://www.reddit.com/r/termux/comments/ur0s1e/anyway_to_fix_this_ubuntu_proot_android_11_no/?rdt=34865
+anyway to fix this? ubuntu proot, android 11. no just like to have pip working right : r/termux
+
+
 https://github.com/OpenTalker/SadTalker/issues/676
 Termux install | ERROR: Could not find a version that satisfies the requirement torch==1.12.1+cu113 · Issue #676 · OpenTalker/SadTalker
 
