@@ -1,1 +1,4 @@
-A
+
+https://github.com/OpenTalker/SadTalker/issues/676
+Termux install | ERROR: Could not find a version that satisfies the requirement torch==1.12.1+cu113 · Issue #676 · OpenTalker/SadTalker
+
