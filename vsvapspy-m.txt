@@ -1,4 +1,8 @@
 
+https://youtu.be/m_a0fN48Alw
+Diagnose slow Python code. (Feat. async/await) - YouTube
+
+
 https://youtu.be/1S2h11XronA
 Why I prefer attrs over dataclasses - YouTube
 
