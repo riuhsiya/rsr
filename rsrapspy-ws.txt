@@ -2,3 +2,7 @@
 https://pytutorial.com/how-to-find-next-element-in-beautifulsoup/
 How to Find Next Element or Elements in Beautifulsoup
 
+
+https://tedboy.github.io/bs4_doc/13_bs3.html
+13. Beautiful Soup 3
+
